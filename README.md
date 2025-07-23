@@ -26,12 +26,11 @@ Environmental requirements ：
 * OpenCV 4.5.3 
 * Jupyter Notebook
   
-1.  克隆仓库：
+1. Clone repository：
     ```bash
-    git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
-    cd 你的仓库名
+    git clone https://github.com/zhangao668/MVG-FD.git
     ```
-2.  安装依赖（如果需要 `requirements.txt`）：
+2.  Install requirements：
     ```bash
     pip install -r requirements.txt
     ```
