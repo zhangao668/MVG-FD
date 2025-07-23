@@ -35,8 +35,19 @@ Environmental requirements ：
     pip install -r requirements.txt
     ```
 
-## 使用方法 (二级标题)
+## Test
+Place the pretrained model in the ./saved_models folder, and then run test.ipynb. At the same time, modify the image saving address according to your needs. You can perform different performance tests on the output images.
 
-```python
-# 示例代码
-print("Hello, World!")
+## Results
+We provide both full-reference and no-reference evaluations here.
+
+
+
+
+
+
+
+
+
+
+
