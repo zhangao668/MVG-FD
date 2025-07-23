@@ -13,7 +13,8 @@ Underwater images are frequently affected by light absorption and scattering, wh
 * Train
 * Test
 * Results
-
+* License and Acknowledgement
+  
 ## Train
 If you want to train MVG-FD from scratch, you first need to download the [LSUI](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement/tree/main) dataset. The LSUI is randomly divided into Train-L (3729 images) and Test-L400 (400 images) for training and testing, respectively. We estimate the depth information for each underwater image using the [MiDaS](https://github.com/isl-org/MiDaS). 
 
