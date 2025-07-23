@@ -4,7 +4,7 @@ This code repository is the official PyTorch implementation for the underwater i
 
 ## Model
 
-*[kuangjia](images/reslut/kuangjia.pdf)
+*[kuangjia](images/results/kuangjia.pdf)
 
 ### 特性 (三级标题)
 
