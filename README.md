@@ -40,10 +40,10 @@ Place the pretrained model in the ./saved_models folder, and then run test.ipynb
 
 ## Results
 We provide both full-reference here. For the full-reference dataset UIEB, our underwater image restoration results are closest to the reference images, with fewer color artifacts and higher fidelity in target regions, particularly excelling in capturing fine details in underwater scenes.
-![kuangjia](images/results/1.png)
+![kuangjia](images/results/2.png)
 
-
-
+## License and Acknowledgement
+The codes are designed based on [U-shape_Transformer_for_Underwater_Image_Enhancement]([https://github.com/isl-org/MiDaS](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement/tree/main)). We follow their licenses, thanks for their awesome works.
 
 
 
