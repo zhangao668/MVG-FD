@@ -1,8 +1,8 @@
 # MVG-FD: Multi-modal Visual Guidance and Feature Decomposition for Underwater Image Restoration
 
-This code repository is the official PyTorch implementation for the underwater image restoration model MVG-FD.
+This code repository is the official PyTorch implementation for the underwater image restoration model MVG-FD. 
 
-## 简介 (二级标题)
+## Model
 
 本项目旨在解决 [具体问题]，通过 [方法或技术] 实现 [目标]。
 
