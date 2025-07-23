@@ -39,9 +39,8 @@ Environmental requirements ：
 Place the pretrained model in the ./saved_models folder, and then run test.ipynb. At the same time, modify the image saving address according to your needs. You can perform different performance tests on the output images.
 
 ## Results
-We provide both full-reference and no-reference evaluations here.
-
-
+We provide both full-reference here. For the full-reference dataset UIEB, our underwater image restoration results are closest to the reference images, with fewer color artifacts and higher fidelity in target regions, particularly excelling in capturing fine details in underwater scenes.
+![kuangjia](images/results/1.png)
 
 
 
